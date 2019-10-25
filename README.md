@@ -1,2 +1,2 @@
-# netcore-signalr
-Trying out  .Net Core SinalR
+# .Net Core SignalR
+Trying out  .Net Core SignalR
